@@ -1,8 +1,8 @@
 # TypeScriptCurso
 
 Commands:
-# Instalar typescript
+## Instalar typescript
 `npm i -g typescript`
 
-# Saber version
+## Saber version
 `tsc -v` 

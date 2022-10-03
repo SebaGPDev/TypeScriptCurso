@@ -5,4 +5,4 @@ Commands:
 > npm i -g typescript
 
 # Saber version
-> tsc -v 
+`tsc -v` 

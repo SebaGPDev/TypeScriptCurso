@@ -6,3 +6,6 @@ Commands:
 
 ## Saber version
 `tsc -v` 
+
+## Create tsconfig.json
+`tsc -init`

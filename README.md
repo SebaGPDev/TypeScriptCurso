@@ -9,3 +9,13 @@ Commands:
 
 ## Create tsconfig.json
 `tsc -init`
+
+## Compilation options
+```
+tsc main.ts
+tsc main.ts -w
+tsc *.ts -w
+tsc -w
+tsc -p ./ -w
+
+```
